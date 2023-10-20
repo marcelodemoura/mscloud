@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.vinado.boot/mail-extensions-concurrent-javamail-spring-boot-starter/2.0.0/62a4a88cf009a711e16721e133f37a7e99e7881c/mail-extensions-concurrent-javamail-spring-boot-starter-2.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/3.1.4/8a615e53a9f45eecc4821917b1423daa68afcf19/spring-boot-starter-3.1.4.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.vinado.boot/mail-extensions-spring-boot-autoconfigure/2.0.0/44ffb2b87e653a2be0f820117a2795e2b6d9304e/mail-extensions-spring-boot-autoconfigure-2.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.vinado.spring/mail-extensions/2.0.0/379791f50ade03c9442fe878ae4c7857957a1991/mail-extensions-2.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.1.4/ae53253f6330787f8b77a13aa90d6514597a20d0/spring-boot-autoconfigure-3.1.4.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/3.1.4/7a0a6349e28227a93f2b4efde897e87b3343bf3a/spring-boot-3.1.4.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/3.1.4/e3533d7b6e2e9b5ca9b05dce2a9a2504aad5b889/spring-boot-starter-logging-3.1.4.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/48b9bda22b091b1f48b13af03fe36db3be6e1ae3/jakarta.annotation-api-2.1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.0.12/f1964518e07796b2fdc1b9be2108485ffe1b4566/spring-context-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/6.0.12/ba7ecdbdc2abaf172d49692b8110f65ecd2d250c/spring-aop-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/6.0.12/dfa53afbf1ab65f36c60333443ed1109ed331504/spring-beans-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/6.0.12/9283ad418f06f918e834b1981998a5f62a05b355/spring-expression-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/6.0.12/a55e70359371b03ee29dacd75c3b40d0baf3a656/spring-core-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.33/2cd0a87ff7df953f810c344bdf2fe3340b954c69/snakeyaml-1.33.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.4.11/54450c0c783e896a1a6d88c043bd2f1daba1c382/logback-classic-1.4.11.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.20.0/d37f81f8978e2672bc32c82712ab4b3f66624adc/log4j-to-slf4j-2.20.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.9/9ef7c70b248185845f013f49a33ff9ca65b7975/jul-to-slf4j-2.0.9.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/6.0.12/44a1d1d105063d4eb9c5dc705245ef6fa4162520/spring-jcl-6.0.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.4.11/2f9f280219a9922a74200eaf7138c4c17fb87c0f/logback-core-1.4.11.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.9/7cf2726fdcfbc8610f9a71fb3ed639871f315340/slf4j-api-2.0.9.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.20.0/1fe6082e660daf07c689a89c94dc0f49c26b44bb/log4j-api-2.20.0.jar" />
+        </processorPath>
+        <module name="cloud-mensageria.cloud-mensageria.main~2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-mensageria.cloud-mensageria.main" target="17" />
+      <module name="cloud-mensageria.cloud-mensageria.main~1" target="17" />
+      <module name="cloud-mensageria.cloud-mensageria.test" target="17" />
+      <module name="cloud-mensageria.cloud-mensageria.test~1" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
